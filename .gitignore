@@ -1,0 +1,18 @@
+# R and RStudio
+.Rhistory
+.RData
+.RDataTmp
+.Ruserdata
+.Rproj.user/
+.Rcheck/
+
+# Generated project outputs and local model/database artifacts
+/outputs/
+/models/
+/database/*.db
+/database/*.sqlite
+/database/*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
